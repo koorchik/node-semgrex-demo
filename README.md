@@ -3,10 +3,8 @@ NodeJs Semgrex Demo
 
 It is small demo for my DataSciene conference (http://datascience.in.ua/)
 
-
 ## How to run?
 
-1. cp etc/config.json.sample etc/config.json
-2. Edit app.js file 
-3. npm install
-4. node runner.js
+1. Change GoogleCloud credentials in app.js
+2. npm install
+3. node runner.js
